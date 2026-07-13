@@ -1,0 +1,8 @@
+## 🌐 Live Demo in streamlit.app
+
+The application is deployed on Streamlit Community Cloud and can be accessed here:
+
+🚀https://superstore-sales-dashboard-t2yky99tedjeb8aykongke.streamlit.app/
+
+## Google colab link
+🚀https://colab.research.google.com/drive/1gRzNDz-dvjAhklj7o6feCfAEjOm2r1sd#scrollTo=tW8QwSP7q5wr
